@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/himanshu849/my-new-app.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/himanshu849/my-new-app.git/static/js/main.9d680af6.chunk.js",
+    "main.js.map": "/himanshu849/my-new-app.git/static/js/main.9d680af6.chunk.js.map",
+    "runtime-main.js": "/himanshu849/my-new-app.git/static/js/runtime-main.8da430e8.js",
+    "runtime-main.js.map": "/himanshu849/my-new-app.git/static/js/runtime-main.8da430e8.js.map",
+    "static/js/2.4113189c.chunk.js": "/himanshu849/my-new-app.git/static/js/2.4113189c.chunk.js",
+    "static/js/2.4113189c.chunk.js.map": "/himanshu849/my-new-app.git/static/js/2.4113189c.chunk.js.map",
+    "index.html": "/himanshu849/my-new-app.git/index.html",
+    "precache-manifest.ddf3a7e96073b6caced791070f1230bb.js": "/himanshu849/my-new-app.git/precache-manifest.ddf3a7e96073b6caced791070f1230bb.js",
+    "service-worker.js": "/himanshu849/my-new-app.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/himanshu849/my-new-app.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4113189c.chunk.js.LICENSE.txt": "/himanshu849/my-new-app.git/static/js/2.4113189c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/himanshu849/my-new-app.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8da430e8.js",
+    "static/js/2.4113189c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9d680af6.chunk.js"
+  ]
+}
